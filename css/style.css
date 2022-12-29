@@ -1,0 +1,24 @@
+body{
+    font-family: monospace;
+    margin: 0 auto;
+}
+
+.desenho{
+    margin-left: 30%;
+}
+
+h2{
+    text-align: center;
+}
+
+.dialogo{
+    text-align: center;
+}
+
+.conteudo{
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+}
